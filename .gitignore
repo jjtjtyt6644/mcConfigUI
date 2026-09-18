@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env.production
+backend/data/servers/*
+!backend/data/servers/.gitkeep
+backend/data/downloads/*
+*.log
+npm-debug.log*
+.DS_Store
